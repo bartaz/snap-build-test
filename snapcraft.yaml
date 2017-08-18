@@ -1,5 +1,5 @@
 name: bartaz-snap-build-test
-version: 1.7.0.1
+version: 1.8.0
 summary: This is just a test based on speed-test-snap...
 description: |
   Test your internet connection speed and ping using speedtest.net from the CLI.
@@ -17,4 +17,4 @@ apps:
 parts:
   speed-test:
     plugin: nodejs
-    node-packages: [speed-test@1.7.0]
+    node-packages: [speed-test@1.8.0]
