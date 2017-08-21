@@ -1,7 +1,7 @@
 name: bartaz-snap-build-test
 version: 1.8.0
 summary: This is just a test based on speed-test-snap...
-description: 
+description: |
 
 confinement: devmode
 
