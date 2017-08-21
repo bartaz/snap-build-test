@@ -1,11 +1,7 @@
 name: bartaz-snap-build-test
 version: 1.8.0
 summary: This is just a test based on speed-test-snap...
-description: |
-  Test your internet connection speed and ping using speedtest.net from the CLI.
-  
-  Repackaged as snap from npm speed-test module:
-  https://www.npmjs.com/package/speed-test 
+description: 
 
 confinement: devmode
 
